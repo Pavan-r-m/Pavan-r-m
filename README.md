@@ -125,13 +125,4 @@ I apply statistical techniques and machine learning methods—including forecast
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ---
-
-## 📌 What I Care About
-
-I care deeply about building **accurate and trusted metrics**, designing **scalable analytics platforms**, and solving ambiguous problems with data. I enjoy turning raw data into **actionable insights**, and I treat data quality, governance, and reliability as first-class problems.
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Pavan-r-m&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+/gprm.itsvg.in ) -->
