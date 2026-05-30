@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pavan</h1>
 
 <h3 align="center">
-🤖 AI/ML Engineer &nbsp;|&nbsp; 🧠 LLM & RAG Systems &nbsp;|&nbsp; 🏗️ Data & Analytics Engineer
+🤖 AI/ML Engineer &nbsp;|&nbsp; 🧠 LLM & RAG Systems &nbsp;|&nbsp; 🏗️ Data & Analytics
 </h3>
 
 <p align="center">
